@@ -109,6 +109,7 @@ plot2d3('gnn', r);
 
 ### MANUAL CALCULATION:
 
+<img width="594" height="816" alt="image" src="https://github.com/user-attachments/assets/59f7c446-d954-48cb-b144-863185244e8b" />
 
 ### RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
