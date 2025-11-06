@@ -110,10 +110,5 @@ plot2d3('gnn', r);
 ### MANUAL CALCULATION:
 
 
-![Uploading WhatsApp Image 2025-11-06 at 09.45.38_e0479c7c.jpg…]()
-
-
-
-
 ### RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
